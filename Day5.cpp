@@ -1,3 +1,6 @@
+/*
+An element is considered a leader if it is greater than all the elements to its right
+*/
 #include<bits/stdc++.h>
 #include<vector>
 #include<algorithm>
@@ -30,3 +33,4 @@ int main(){
     cout<<endl;
     return 0;
 }
+
